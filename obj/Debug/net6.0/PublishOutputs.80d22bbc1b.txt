@@ -1,0 +1,5 @@
+C:\Users\Hadar\Desktop\File Bundler\publish\File Bundler.exe
+C:\Users\Hadar\Desktop\File Bundler\publish\File Bundler.dll
+C:\Users\Hadar\Desktop\File Bundler\publish\File Bundler.deps.json
+C:\Users\Hadar\Desktop\File Bundler\publish\File Bundler.runtimeconfig.json
+C:\Users\Hadar\Desktop\File Bundler\publish\File Bundler.pdb

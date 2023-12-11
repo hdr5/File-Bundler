@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbhVzJL/Fh8GLxQEiRjjcQx68DfZyMK18tp7N94b1TMhtqq7IQt6RgpnVI7L94MNvHsX7yVRLqJMW+QjKA1VaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hadar\\Desktop\\File Bundler\\File Bundler\\fib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hadar\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
